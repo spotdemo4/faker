@@ -1,3 +1,3 @@
-module github.com/jaswdr/faker/v2
+module github.com/spotdemo4/faker
 
 go 1.22
